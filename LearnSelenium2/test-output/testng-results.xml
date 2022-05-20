@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-05T20:02:04 IST" name="Default suite" finished-at="2022-05-05T20:02:05 IST" duration-ms="446">
+    <groups>
+    </groups>
+    <test started-at="2022-05-05T20:02:04 IST" name="Default test" finished-at="2022-05-05T20:02:05 IST" duration-ms="446">
+      <class name="Day08.driver_dataProvider">
+        <test-method signature="add(java.util.Map)[pri:0, instance:Day08.driver_dataProvider@7fa98a66]" started-at="2022-05-05T20:02:05 IST" name="add" data-provider="dp_excel" finished-at="2022-05-05T20:02:05 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=300.0, s1=100.0, s2=200.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="add(java.util.Map)[pri:0, instance:Day08.driver_dataProvider@7fa98a66]" started-at="2022-05-05T20:02:05 IST" name="add" data-provider="dp_excel" finished-at="2022-05-05T20:02:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=500.0, s1=250.0, s2=250.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="add(java.util.Map)[pri:0, instance:Day08.driver_dataProvider@7fa98a66]" started-at="2022-05-05T20:02:05 IST" name="add" data-provider="dp_excel" finished-at="2022-05-05T20:02:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=450.0, s1=360.0, s2=40.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="add(java.util.Map)[pri:0, instance:Day08.driver_dataProvider@7fa98a66]" started-at="2022-05-05T20:02:05 IST" name="add" data-provider="dp_excel" finished-at="2022-05-05T20:02:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=1010.0, s1=1008.0, s2=2.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="add(java.util.Map)[pri:0, instance:Day08.driver_dataProvider@7fa98a66]" started-at="2022-05-05T20:02:05 IST" name="add" data-provider="dp_excel" finished-at="2022-05-05T20:02:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=120.0, s1=105.0, s2=5.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="add(java.util.Map)[pri:0, instance:Day08.driver_dataProvider@7fa98a66]" started-at="2022-05-05T20:02:05 IST" name="add" data-provider="dp_excel" finished-at="2022-05-05T20:02:05 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=550.0, s1=350.0, s2=150.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- Day08.driver_dataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

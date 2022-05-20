@@ -1,0 +1,20 @@
+package Scenario_component;
+
+import java.util.Map;
+
+import org.testng.annotations.Test;
+
+import Generic_Component.Base_class;
+import PageObject_component.HomePage_ele;
+
+public class Cart_rediff extends Base_class {
+	
+	@Test(dataProvider = "dp_Cart",dataProviderClass = DataProvider_component.DataProvider_Login.class)
+	public void cart(Map<String,String> cart)
+	{
+		HomePage_ele home_page = new HomePage_ele(driver);
+		home_page.search_item(SEARCH_ITEM);
+		
+	}
+
+}

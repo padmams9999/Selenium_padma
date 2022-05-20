@@ -1,0 +1,24 @@
+package practice;
+
+public class Dog extends Animal{
+	
+	public void get() 
+	{
+		Getname();
+	}
+	public  void Getname()
+	{
+		System.out.println("this is child method");
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Getname2();
+		//Dog obj = new Dog();
+		//obj.Getname();
+		Animal obj2 = new Animal();
+		
+		
+		
+}
+}

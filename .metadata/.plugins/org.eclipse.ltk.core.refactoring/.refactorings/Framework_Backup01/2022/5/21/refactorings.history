@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Base_class.java&apos; to &apos;LearnSelenium/src/test/java/Day07&apos;&#x0D;&#x0A;- Original project: &apos;Framework_Backup01&apos;&#x0D;&#x0A;- Destination element: &apos;LearnSelenium/src/test/java/Day07&apos;&#x0D;&#x0A;- Original element: &apos;Generic_Component.Base_class.java&apos;" description="Copy compilation unit" destination="=LearnSelenium/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;Day07" element1="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;Generic_Component{Base_class.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1653043798932" units="1" version="1.0"/>
+</session>

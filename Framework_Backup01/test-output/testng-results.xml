@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-20T16:21:00 IST" name="Default suite" finished-at="2022-05-20T16:21:06 IST" duration-ms="6271">
+    <groups>
+      <group name="smoke">
+        <method signature="Search_rediff.test_ValidSearch(java.util.Map)[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" name="test_ValidSearch" class="Scenario_component.Search_rediff"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-05-20T16:21:00 IST" name="Default test" finished-at="2022-05-20T16:21:06 IST" duration-ms="6271">
+      <class name="Scenario_component.Search_rediff">
+        <test-method is-config="true" signature="reportExtent()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:00 IST" name="reportExtent" finished-at="2022-05-20T16:21:00 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportExtent -->
+        <test-method is-config="true" signature="runFirst()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:00 IST" name="runFirst" finished-at="2022-05-20T16:21:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runFirst -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:01 IST" name="launchApp" finished-at="2022-05-20T16:21:05 IST" duration-ms="4078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="test_ValidSearch(java.util.Map)[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:05 IST" name="test_ValidSearch" data-provider="dp_ValidSearch" finished-at="2022-05-20T16:21:06 IST" duration-ms="788" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TC_ID=GB_11, ORDER_SET=1.0, SCRIPT_NAME=Valid_search, SEARCH_ITEM=game, EXECUTE_FLAG=Y, EXP_RESULT=491.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ValidSearch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:06 IST" name="teardown" finished-at="2022-05-20T16:21:06 IST" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="runLast()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:06 IST" name="runLast" finished-at="2022-05-20T16:21:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLast -->
+      </class> <!-- Scenario_component.Search_rediff -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

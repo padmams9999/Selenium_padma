@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Practice Suite">  
+
+  <test name="Regression1">
+    	
+      	<classes>
+      	<class name="Day07.L_className"/>
+      	</classes>
+  </test> <!-- Test --> 
+</suite> <!-- Suite -->

@@ -1,0 +1,134 @@
+2022-05-12 13:32:33 INFO  Base_class:30 - The execution of test case GB_01order set is 1.0
+  2022-05-12 13:32:33 INFO  Base_class:40 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 13:32:39 INFO  Base_class:30 - The execution of test case GB_01order set is 2.0
+  2022-05-12 13:32:39 INFO  Base_class:40 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 13:32:44 INFO  Base_class:66 - The execution of test case GB_07order set is 1.0
+  2022-05-12 13:32:44 INFO  Base_class:81 - failed and expected result is Hi qtpworld2008 and actual result is Hi qtpworld2008 g
+  2022-05-12 13:33:21 INFO  Base_class:30 - The execution of test case GB_01order set is 1.0
+  2022-05-12 13:33:21 INFO  Base_class:40 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 13:33:26 INFO  Base_class:30 - The execution of test case GB_01order set is 2.0
+  2022-05-12 13:33:26 INFO  Base_class:40 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 13:33:32 INFO  Base_class:66 - The execution of test case GB_07order set is 1.0
+  2022-05-12 13:33:32 INFO  Base_class:81 - failed and expected result is Hi qtpworld2008 and actual result is Hi qtpworld2008 g
+  2022-05-12 13:40:38 INFO  Base_class:30 - The execution of test case GB_01order set is 1.0
+  2022-05-12 13:40:38 INFO  Base_class:40 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 13:42:49 INFO  Base_class:30 - The execution of test case GB_01order set is 1.0
+  2022-05-12 13:42:49 INFO  Base_class:40 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 13:42:54 INFO  Base_class:30 - The execution of test case GB_01order set is 2.0
+  2022-05-12 13:42:54 INFO  Base_class:40 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 13:42:59 INFO  Base_class:66 - The execution of test case GB_07order set is 1.0
+  2022-05-12 13:43:00 INFO  Base_class:81 - failed and expected result is Hi qtpworld2008 and actual result is Hi qtpworld2008 g
+  2022-05-12 13:51:57 INFO  Base_class:66 - The execution of test case GB_07order set is 1.0
+  2022-05-12 13:51:57 INFO  Base_class:77 - passed and expected result is Hi qtpworld2008 and actual result is Hi qtpworld2008
+  2022-05-12 16:09:55 INFO  Base_class:31 - The execution of test case GB_01order set is 1.0
+  2022-05-12 16:09:55 INFO  Base_class:47 - failed and expected result is Sorry we were unable to complet and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 16:40:43 INFO  Base_class:31 - The execution of test case GB_01order set is 1.0
+  2022-05-12 16:40:43 INFO  Base_class:47 - failed and expected result is Sorry we were unable to complet and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:06:52 INFO  Base_class:31 - The execution of test case GB_01order set is 1.0
+  2022-05-12 17:06:52 INFO  Base_class:47 - failed and expected result is Sorry we were unable to complet and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:26:46 INFO  Base_class:31 - The execution of test case GB_01order set is 1.0
+  2022-05-12 17:26:46 INFO  Base_class:47 - failed and expected result is Sorry we were unable to complet and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:27:35 INFO  Base_class:31 - The execution of test case GB_01order set is 1.0
+  2022-05-12 17:27:35 INFO  Base_class:47 - failed and expected result is Sorry we were unable to complet and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:27:39 INFO  Base_class:31 - The execution of test case GB_01order set is 2.0
+  2022-05-12 17:27:39 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:27:43 INFO  Base_class:31 - The execution of test case GB_02order set is 1.0
+  2022-05-12 17:27:44 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:27:48 INFO  Base_class:31 - The execution of test case GB_03order set is 1.0
+  2022-05-12 17:27:48 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:27:53 INFO  Base_class:31 - The execution of test case GB_04order set is 1.0
+  2022-05-12 17:27:53 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:27:57 INFO  Base_class:31 - The execution of test case GB_05order set is 1.0
+  2022-05-12 17:27:57 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:28:02 INFO  Base_class:31 - The execution of test case GB_06order set is 1.0
+  2022-05-12 17:28:02 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:28:06 INFO  Base_class:69 - The execution of test case GB_07order set is 1.0
+  2022-05-12 17:28:06 INFO  Base_class:80 - passed and expected result is Hi qtpworld2008 and actual result is Hi qtpworld2008
+  2022-05-12 17:32:45 INFO  Base_class:55 - ************************Start**********************
+  2022-05-12 17:32:50 INFO  Base_class:31 - The execution of test case GB_01order set is 1.0
+  2022-05-12 17:32:50 INFO  Base_class:47 - failed and expected result is Sorry we were unable to complet and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:32:55 INFO  Base_class:31 - The execution of test case GB_01order set is 2.0
+  2022-05-12 17:32:55 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:33:01 INFO  Base_class:31 - The execution of test case GB_02order set is 1.0
+  2022-05-12 17:33:01 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:33:06 INFO  Base_class:31 - The execution of test case GB_03order set is 1.0
+  2022-05-12 17:33:06 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:33:11 INFO  Base_class:31 - The execution of test case GB_04order set is 1.0
+  2022-05-12 17:33:11 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:33:16 INFO  Base_class:31 - The execution of test case GB_05order set is 1.0
+  2022-05-12 17:33:16 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:33:21 INFO  Base_class:31 - The execution of test case GB_06order set is 1.0
+  2022-05-12 17:33:21 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:33:26 INFO  Base_class:69 - The execution of test case GB_07order set is 1.0
+  2022-05-12 17:33:26 INFO  Base_class:80 - passed and expected result is Hi qtpworld2008 and actual result is Hi qtpworld2008
+  2022-05-12 17:33:26 INFO  Base_class:61 - ************************Start**********************
+  2022-05-12 17:39:31 INFO  Base_class:57 - ************************Start**********************
+  2022-05-12 17:39:37 INFO  Base_class:31 - The execution of test case GB_01order set is 1.0
+  2022-05-12 17:39:37 INFO  Base_class:47 - failed and expected result is Sorry we were unable to complet and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:39:41 INFO  Base_class:31 - The execution of test case GB_01order set is 2.0
+  2022-05-12 17:39:42 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:39:46 INFO  Base_class:31 - The execution of test case GB_02order set is 1.0
+  2022-05-12 17:39:46 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:39:51 INFO  Base_class:31 - The execution of test case GB_03order set is 1.0
+  2022-05-12 17:39:51 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:39:55 INFO  Base_class:31 - The execution of test case GB_04order set is 1.0
+  2022-05-12 17:39:55 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:40:00 INFO  Base_class:31 - The execution of test case GB_05order set is 1.0
+  2022-05-12 17:40:00 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:40:05 INFO  Base_class:31 - The execution of test case GB_06order set is 1.0
+  2022-05-12 17:40:05 INFO  Base_class:41 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 17:40:10 INFO  Base_class:69 - The execution of test case GB_07order set is 1.0
+  2022-05-12 17:40:10 INFO  Base_class:80 - passed and expected result is Hi qtpworld2008 and actual result is Hi qtpworld2008
+  2022-05-12 17:40:11 INFO  Base_class:63 - ************************End**********************
+  2022-05-12 18:22:43 INFO  Base_class:57 - ************************Start**********************
+  2022-05-12 18:22:48 INFO  Base_class:35 - The execution of test case GB_01order set is 1.0
+  2022-05-12 18:22:48 INFO  Base_class:51 - failed and expected result is Sorry we were unable to complet and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 18:22:54 INFO  Base_class:35 - The execution of test case GB_01order set is 2.0
+  2022-05-12 18:22:54 INFO  Base_class:45 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 18:22:58 INFO  Base_class:35 - The execution of test case GB_02order set is 1.0
+  2022-05-12 18:22:58 INFO  Base_class:45 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 18:23:03 INFO  Base_class:35 - The execution of test case GB_03order set is 1.0
+  2022-05-12 18:23:03 INFO  Base_class:45 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 18:23:08 INFO  Base_class:35 - The execution of test case GB_04order set is 1.0
+  2022-05-12 18:23:08 INFO  Base_class:45 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 18:23:13 INFO  Base_class:35 - The execution of test case GB_05order set is 1.0
+  2022-05-12 18:23:13 INFO  Base_class:45 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 18:23:17 INFO  Base_class:35 - The execution of test case GB_06order set is 1.0
+  2022-05-12 18:23:17 INFO  Base_class:45 - passed and expected result is Sorry we were unable to complete this step because : and actual result is Sorry we were unable to complete this step because :
+  2022-05-12 18:23:22 INFO  Base_class:77 - The execution of test case GB_07order set is 1.0
+  2022-05-12 18:23:22 INFO  Base_class:88 - passed and expected result is Hi qtpworld2008 and actual result is Hi qtpworld2008
+  2022-05-12 18:23:22 INFO  Base_class:63 - ************************End**********************
+  2022-05-12 21:52:06 INFO  Base_class:57 - ************************Start**********************
+  2022-05-12 21:52:13 INFO  Base_class:63 - ************************End**********************
+  2022-05-12 21:56:00 INFO  Base_class:57 - ************************Start**********************
+  2022-05-12 21:56:04 INFO  Base_class:63 - ************************End**********************
+  2022-05-12 21:56:54 INFO  Base_class:57 - ************************Start**********************
+  2022-05-12 21:56:58 INFO  Base_class:63 - ************************End**********************
+  2022-05-12 21:59:04 INFO  Base_class:57 - ************************Start**********************
+  2022-05-12 21:59:08 INFO  Base_class:63 - ************************End**********************
+  2022-05-12 22:02:13 INFO  Base_class:57 - ************************Start**********************
+  2022-05-12 22:02:16 INFO  Base_class:63 - ************************End**********************
+  2022-05-12 22:03:35 INFO  Base_class:57 - ************************Start**********************
+  2022-05-12 22:03:42 INFO  Base_class:34 -  failed - Expected result is Sorry..'reeya' does not match any product on Rediff Books.Actual result is reeya
+  2022-05-12 22:03:42 INFO  Base_class:63 - ************************End**********************
+  2022-05-12 22:07:31 INFO  Base_class:60 - ************************Start**********************
+  2022-05-12 22:07:36 INFO  Base_class:34 -  failed - Expected result is Sorry..'reeya' does not match any product on Rediff Books.Actual result is reeya
+  2022-05-12 22:07:36 INFO  Base_class:66 - ************************End**********************
+  2022-05-13 13:34:30 INFO  Base_class:59 - ************************Start**********************
+  2022-05-13 13:34:34 INFO  Base_class:37 -  failed - Expected result is Sorry..'reeya' does not match any product on Rediff Books.Actual result is reeya
+  2022-05-13 13:34:34 INFO  Base_class:65 - ************************End**********************
+  2022-05-13 13:34:49 INFO  Base_class:59 - ************************Start**********************
+  2022-05-13 13:34:52 INFO  Base_class:37 -  failed - Expected result is Sorry..'reeya' does not match any product on Rediff Books.Actual result is reeya
+  2022-05-13 13:34:53 INFO  Base_class:65 - ************************End**********************
+  2022-05-13 13:40:01 INFO  Base_class:59 - ************************Start**********************
+  2022-05-13 13:40:06 INFO  Base_class:67 -  failed - Expected result is 491.0Actual result is 491
+  2022-05-13 13:40:07 INFO  Base_class:65 - ************************End**********************
+  2022-05-13 13:50:17 INFO  Base_class:59 - ************************Start**********************
+  2022-05-13 13:50:22 INFO  Base_class:65 - ************************End**********************
+  2022-05-13 13:53:13 INFO  Base_class:59 - ************************Start**********************
+  2022-05-13 13:53:17 INFO  Base_class:69 -  failed - Expected result is 491.0Actual result is 491.0
+  2022-05-13 13:53:17 INFO  Base_class:65 - ************************End**********************
+  2022-05-13 13:59:18 INFO  Base_class:59 - ************************Start**********************
+  2022-05-13 13:59:23 INFO  Base_class:64 -  passed - Expected result is 491.0Actual result is 491.0
+  2022-05-13 13:59:23 INFO  Base_class:65 - ************************End**********************
+  

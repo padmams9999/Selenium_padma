@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite"   parallel ="tests"  thread-count ="2" >
+
+  <test name="t1">
+    	<parameter name="browser" value="sys1"/>
+      	<classes>
+      	<class name="Day07.L_className"/>
+      	</classes>
+  </test> <!-- Test --> 
+   
+  <test name="t2">    
+    	<parameter name="browser" value="sys2"/>
+    	<classes>
+       		<class name="Day07.L_className"/>
+    	</classes>     
+  </test> <!-- Test -->  
+</suite> <!-- Suite -->
