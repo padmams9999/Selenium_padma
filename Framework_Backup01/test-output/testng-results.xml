@@ -2,46 +2,50 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-20T16:21:00 IST" name="Default suite" finished-at="2022-05-20T16:21:06 IST" duration-ms="6271">
+  <suite started-at="2022-07-09T02:18:52 CEST" name="Practice Suite" finished-at="2022-07-09T02:18:57 CEST" duration-ms="5220">
     <groups>
+      <group name="regression">
+        <method signature="Login_rediff.test_Valid_login(java.util.Map)[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" name="test_Valid_login" class="Scenario_component.Login_rediff"/>
+      </group> <!-- regression -->
       <group name="smoke">
-        <method signature="Search_rediff.test_ValidSearch(java.util.Map)[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" name="test_ValidSearch" class="Scenario_component.Search_rediff"/>
+        <method signature="Login_rediff.test_Invalid_login(java.util.Map)[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" name="test_Invalid_login" class="Scenario_component.Login_rediff"/>
+        <method signature="Login_rediff.test_Valid_login(java.util.Map)[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" name="test_Valid_login" class="Scenario_component.Login_rediff"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2022-05-20T16:21:00 IST" name="Default test" finished-at="2022-05-20T16:21:06 IST" duration-ms="6271">
-      <class name="Scenario_component.Search_rediff">
-        <test-method is-config="true" signature="reportExtent()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:00 IST" name="reportExtent" finished-at="2022-05-20T16:21:00 IST" duration-ms="108" status="PASS">
+    <test started-at="2022-07-09T02:18:52 CEST" name="Regression1" finished-at="2022-07-09T02:18:57 CEST" duration-ms="5220">
+      <class name="Scenario_component.Login_rediff">
+        <test-method is-config="true" signature="reportExtent()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T02:18:52 CEST" name="reportExtent" finished-at="2022-07-09T02:18:52 CEST" duration-ms="115" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportExtent -->
-        <test-method is-config="true" signature="runFirst()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:00 IST" name="runFirst" finished-at="2022-05-20T16:21:00 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="runFirst()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T02:18:52 CEST" name="runFirst" finished-at="2022-07-09T02:18:52 CEST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runFirst -->
-        <test-method is-config="true" signature="launchApp()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:01 IST" name="launchApp" finished-at="2022-05-20T16:21:05 IST" duration-ms="4078" status="PASS">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T02:18:53 CEST" name="launchApp" finished-at="2022-07-09T02:18:55 CEST" duration-ms="2360" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApp -->
-        <test-method signature="test_ValidSearch(java.util.Map)[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:05 IST" name="test_ValidSearch" data-provider="dp_ValidSearch" finished-at="2022-05-20T16:21:06 IST" duration-ms="788" status="PASS">
+        <test-method signature="test_Invalid_login(java.util.Map)[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T02:18:55 CEST" name="test_Invalid_login" data-provider="dp_Invalidlogin" finished-at="2022-07-09T02:18:57 CEST" duration-ms="1666" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[{TC_ID=GB_11, ORDER_SET=1.0, SCRIPT_NAME=Valid_search, SEARCH_ITEM=game, EXECUTE_FLAG=Y, EXP_RESULT=491.0}]]>
+                <![CDATA[{UNAME=qtwor1, TC_ID=GB_01, ORDER_SET=1.0, SCRIPT_NAME=Invalid, EXECUTE_FLAG=Y, PWD=learn123, EXP_RESULT=Sorry we were unable to complete this step because :}]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_ValidSearch -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:06 IST" name="teardown" finished-at="2022-05-20T16:21:06 IST" duration-ms="514" status="PASS">
+        </test-method> <!-- test_Invalid_login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T02:18:57 CEST" name="teardown" finished-at="2022-07-09T02:18:57 CEST" duration-ms="477" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="runLast()[pri:0, instance:Scenario_component.Search_rediff@43bc63a3]" started-at="2022-05-20T16:21:06 IST" name="runLast" finished-at="2022-05-20T16:21:06 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="runLast()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T02:18:57 CEST" name="runLast" finished-at="2022-07-09T02:18:57 CEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runLast -->
-      </class> <!-- Scenario_component.Search_rediff -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- Scenario_component.Login_rediff -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Practice Suite -->
 </testng-results>

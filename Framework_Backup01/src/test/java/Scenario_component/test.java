@@ -1,14 +1,23 @@
 package Scenario_component;
 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
 public class test {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hi Padma");
-		System.out.println("Hi Vardhaman");
+
+		WebDriver driver=new ChromeDriver();
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Dell\\Desktop\\padmashri\\selenium\\New folder\\drivers\\Chrome\\driver\\chromedriver.exe");
+
 		
-		System.out.println(" Passed in Git");
+		
+		driver.get("http://books.rediff.com");	
+		
+		Thread.sleep(5000);
 
 	}
 

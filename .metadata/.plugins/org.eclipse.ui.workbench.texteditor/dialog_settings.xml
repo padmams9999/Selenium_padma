@@ -6,12 +6,15 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="extTest"/>
 		<list key="findhistory">
+			<item value="extTest"/>
+			<item value="extTest1"/>
 			<item value="jain"/>
 			<item value="Link_map"/>
 		</list>
 		<list key="replacehistory">
+			<item value="extTest"/>
 			<item value="mp"/>
 		</list>
 	</section>

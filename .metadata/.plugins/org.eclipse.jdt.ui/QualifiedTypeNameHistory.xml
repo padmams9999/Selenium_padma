@@ -23,7 +23,6 @@
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="PageObject_component.SignIn_ele"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="org.apache.poi.hpsf.Date"/>
     <fullyQualifiedTypeName name="Generic_component.Base_class"/>
@@ -36,7 +35,6 @@
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="Generic_Component.ExcelRW"/>
-    <fullyQualifiedTypeName name="org.testng.annotations.BeforeSuite"/>
     <fullyQualifiedTypeName name="org.testng.annotations.AfterSuite"/>
     <fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
     <fullyQualifiedTypeName name="com.aventstack.extentreports.ExtentReports"/>
@@ -52,7 +50,6 @@
     <fullyQualifiedTypeName name="DataProvider_component.DataProvider_Login"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
     <fullyQualifiedTypeName name="java.sql.Time"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="PageObject_component.ProductDetails_ele"/>
     <fullyQualifiedTypeName name="PageObject_component.Cart_page"/>
     <fullyQualifiedTypeName name="org.testng.asserts.SoftAssert"/>
@@ -60,4 +57,7 @@
     <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.remote.DesiredCapabilities"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeSuite"/>
 </qualifiedTypeNameHistroy>

@@ -8,7 +8,7 @@
           <include name="runLast"/>
           <include name="launchApp"/>
           <include name="teardown"/>
-          <include name="test_Invalid_login" invocation-numbers="0"/>
+          <include name="test_Invalid_login"/>
           <include name="runFirst"/>
         </methods>
       </class> <!-- Scenario_component.Login_rediff -->

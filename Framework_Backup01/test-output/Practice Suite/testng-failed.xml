@@ -17,7 +17,6 @@
           <include name="runLast"/>
           <include name="launchApp"/>
           <include name="teardown"/>
-          <include name="test_Invalid_login" invocation-numbers="0"/>
           <include name="runFirst"/>
           <include name="test_Valid_login"/>
         </methods>

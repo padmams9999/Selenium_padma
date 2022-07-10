@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression1"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.751">
+  <properties />
+  
+  
+            <testcase name="cart" time="7.751" classname="Scenario_component.Cart_rediff" />
+      
+</testsuite>
